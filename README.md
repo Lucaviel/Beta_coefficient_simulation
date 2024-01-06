@@ -1,1 +1,1 @@
-# beta_coefficient_simulation
+Authors: Patrycja Lewczuk, Martyna Mech
